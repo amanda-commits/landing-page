@@ -71,3 +71,42 @@ button {
   flex: 1;
 }
 
+.info {
+  padding: 50px 200px;
+}
+
+.info .title {
+  font-size: 36px;
+  font-weight: 800;
+  color: #1F2937;
+  text-align: center;
+  padding: 36px;
+}
+
+.info .image {
+  border: 5px solid #3882F6;
+  border-radius: 10px;
+  background-color: white;
+  height: 150px;
+  width: 150px;
+  margin: 12px;
+
+  
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 36px;
+}
+
+.content .item {
+  flex-basis: 100px;
+}
+
+.info .subtext {
+  font-size: 18px;
+  color: rgb(109, 109, 124);
+  text-align: center;
+}
