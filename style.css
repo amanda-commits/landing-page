@@ -7,7 +7,8 @@ body {
 }
 
 .header,
-.hero {
+.hero,
+.footer {
   background-color: #1F2937;
   margin: 0;
   padding: 50px 200px;
@@ -151,3 +152,7 @@ button {
   border: 2px solid white;
 }
 
+.footer {
+  color: white;
+  text-align: center;
+}
