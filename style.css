@@ -110,3 +110,23 @@ button {
   color: rgb(109, 109, 124);
   text-align: center;
 }
+
+.quote {
+  background-color: #E5E7EB;
+  padding: 50px 250px;
+  color: #1F2937;
+}
+
+.quote .text {
+  font-size: 36px;
+  font-style: italic;
+  font-weight: lighter;
+  
+}
+
+.quote .ref {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: right;
+  margin: 16px 24px;
+}
