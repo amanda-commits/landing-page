@@ -24,7 +24,12 @@ body {
 .footer {
   background-color: #1F2937;
   margin: 0;
-  padding: 50px 200px;
+  padding: 70px 200px;
+}
+
+.header,
+.footer {
+  padding: 30px 200px;
 }
 
 .hero .main {
@@ -86,7 +91,7 @@ button {
 }
 
 .info {
-  padding: 50px 200px;
+  padding: 70px 200px;
 }
 
 .info .title {
@@ -127,7 +132,7 @@ button {
 
 .quote {
   background-color: #E5E7EB;
-  padding: 50px 250px;
+  padding: 70px 250px;
   color: #1F2937;
 }
 
@@ -151,7 +156,8 @@ button {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  margin: 50px 200px;
+  gap: 20px;
+  margin: 70px 200px;
   padding: 20px;
   border-radius: 10px;
 }
